@@ -1,8 +1,8 @@
 ﻿using System; 
 
-internal class Program
+internal class Btapbuoi2
 { 
-    public static void Main()
+    public static void Main1()
     {
         //1.to Add / Sum Two Numbers.
         Console.Write("Enter first integer number: ");
